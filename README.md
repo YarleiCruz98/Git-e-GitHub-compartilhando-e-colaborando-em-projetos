@@ -12,3 +12,4 @@
 - Analise e modifique o histórico de commits de um repositório Git
 
 ## Certificado
+- https://cursos.alura.com.br/user/yarlei-cruz/course/git-github-compartilhando-colaborando-projetos/certificate
